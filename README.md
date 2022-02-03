@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: Contacts
 description: Manage the contacts on the device.
@@ -950,3 +951,6 @@ The `ContactFieldType` object is an enumeration of possible field types, such as
 - `navigator.contacts.fieldType.streetAddress`
 - `navigator.contacts.fieldType.title`
 - `navigator.contacts.fieldType.urls`
+=======
+# experience-contact
+>>>>>>> cb93fa2b735c5873b751c50b18ae722416d76cb6
